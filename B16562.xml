@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Account of Captain Tho. Hamiltons seizing Argiles ships and takeing from him a castle with four hundred barrells of powder, and several pieces of cannon in three letters from two several persons of honour in the North of Ireland to their friends in Dublin.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B16562</idno><idno type="EEBO-CITATION">12561633</idno>
+  <idno type="VID">200253</idno>
+  <idno type="EEBO-PROQUEST">2240969381</idno>
+  
+            <idno type="STC">Wing A201</idno>
+            <idno type="OCLC">12561633</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B16562)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 200253)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 953:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Account of Captain Tho. Hamiltons seizing Argiles ships and takeing from him a castle with four hundred barrells of powder, and several pieces of cannon in three letters from two several persons of honour in the North of Ireland to their friends in Dublin.</title>
+                  <author>J. B.</author>
+                  <author>Hamilton, Thomas, Captain.</author>
+               </titleStmt>
+               <extent>5 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Argyll, Archibald Campbell, --  Earl of, 1629-1685.</term>
+               <term type="personal_name">Hamilton, Thomas, --  Captain.</term>
+               <term type="geographic_name">Ireland --  History --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:200253:1"/>
+            <pb facs="tcp:200253:1"/>
+            <p>AN ACCOUNT Of CAPTAIN Tho. HAMILTONS SEIZING ARGILES SHIPS, And takeing from Him a Ca<g ref="char:EOLhyphen"/>stle with Four hundred Barrells of Powder, and several peices of Cannon in Three letters from two se<g ref="char:EOLhyphen"/>veral Persons of Honour in the North of Ireland to their friends in Dublin.</p>
+            <p>
+               <hi>Dublin,</hi> printed 1685.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:200253:2"/>
+            <pb n="3" facs="tcp:200253:2"/>
+            <opener>
+               <dateline>Balimenagh <date>15 June 1685.</date>
+               </dateline>
+               <lb/>
+               <salute>Sir.</salute>
+            </opener>
+            <p>LAst Night arrived here a son of Mr. <hi>Rowans</hi> from <hi>Scotland,</hi> and brings an account that this For might past, he has been at <hi>Air,</hi> and was a board the <hi>Fisher;</hi> Commanded by Captain <hi>Hamilton</hi> near <hi>Argile,</hi> and went with 10 men in a small Boat to <hi>Loghead</hi> last week, and returned very soon to <hi>Air. Argyle</hi> has 26 <hi>Birlings</hi> at Sea, together with the Vessells he brought from <hi>Holland</hi> with him: which he has man'd with about 3000 men; that the Kings Shipping have surrounded him, betwixt <hi>Boot Cowell</hi> and Island <hi>Magery.</hi>
+            </p>
+            <p>That on Friday last there were many Guns heard, and 'tis thought they have engaged at Sea: <hi>Charles Cam<g ref="char:EOLhyphen"/>bell, Argyle</hi>'s Son is in <hi>Kintyre</hi> with 5000 men, <hi>Athol</hi> is in <hi>Jnerera</hi> with 6000 men, the late Marquels of <hi>Huntly</hi> now Duke of <hi>Gordon,</hi> was to joyn him last week with a thousand men, and the <hi>Mac Lanes</hi> with Four thousand, there are about Five hundred <hi>Whiggs</hi> got together in <hi>Galaway,</hi> and other Rebellious parts there abouts: head<g ref="char:EOLunhyphen"/>ed by two gentlmen Capt. <hi>Stranger,</hi> and Capt. <hi>Welcome;</hi> against whom, there are Fourteen hundred of the Kings Forces gone; it is though those in <hi>Scotlantd,</hi> will not require any of the Army from hence, for they have now m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n and horse more then they can finde provision for.</p>
+            <p>Sir, <hi>John Coghran</hi> went last week to <hi>Grenock,</hi> dined there, and took thence forty or fifty Bowes of meal; it seems two Troops of the Militia commanded by two Nephews of <hi>Sr, John Coghrans</hi> being informed that <hi>Ar<g ref="char:EOLhyphen"/>gyles</hi> men were taking away Meal &amp;c. Repaired to the
+<pb n="4" facs="tcp:200253:3"/>shore, but were soon beaten off with the Guns from a<g ref="char:EOLhyphen"/>board.</p>
+            <p>Mr. <hi>Rowan</hi> saw <hi>Sir John Edgworth</hi> last Thursday night at <hi>Air,</hi> from whence he parted next day to <hi>Edin<g ref="char:EOLhyphen"/>borough,</hi> since the writing of this, I hear there is an Ex<g ref="char:EOLhyphen"/>press come from <hi>Scotland</hi> that <hi>Argyle</hi> was surprised in his Fort, by Capt. <hi>Hamilton</hi> in the Fisher, that most of his men were killed, and taken prisoners, himself escap<g ref="char:EOLhyphen"/>ed narrowly, disguised in a livery Coat, that <hi>Atholl</hi> &amp;c. are now pursuing his remaining Forces.</p>
+         </div>
+         <div type="letter">
+            <opener>
+               <dateline>Sea Coast <date>June 16th. 1685.</date>
+               </dateline>
+               <lb/>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>Yesterday looking on <hi>Scotland,</hi> and thinking of the unhapiness, <hi>Argiles</hi> fate had hurryed himself into; I received the account I now send you, that intending to the main from <hi>Boot</hi> at the mouth of the River <hi>Clyde,</hi> he struck of into an Arm of the Sea, which ran some few miles into the Country, thinking from those places there abouts, to raise more men, but, before he could get back he was surrounded with Twelve thousand of the Kings Army, and in his passage out into the Sea, being very narrow, was blockt up by Capt. <hi>Tho: Hamilton,</hi> in the Kings <hi>Fisher</hi> riding about that Coast, (which I my self saw on Sunday last) <hi>Argile</hi> finding himself beset, fortified himself in a strong Castle that is within a smal Island, in an Arm of the Sea, where he now is, and his Four Ships were with him, the Channel was too narrow for any of our Ships to enter in, being thus secured the Kings Army sent to the Privy Counsell of <hi>Scotland</hi> to know, if they should immediately proceed to batter
+<pb n="5" facs="tcp:200253:3"/>down the place where he was, which by taking down some Gunns from the Kings Ships, they could easily do from the main Land; his mad son <hi>Charles</hi> is with him, his Forces do not consist of above Three thousand men, many having lest him, his Son burnt the Bishops house in <hi>Boot,</hi> and had set Fire to the Castle, which his Father quenched and chid him for his violent Temper.</p>
+            <p>Tho many preparations are making here for the waf<g ref="char:EOLhyphen"/>ting over of our Irish Army thither: yet I do not believe (tho the Fox were not yet in the toile) we should go for I know that those Country men are too proud, to ad<g ref="char:EOLhyphen"/>mit of any Aid from abroad; having a great way to fend to the post. I conclude,</p>
+            <closer>
+               <signed>Your Lordships Faihfull J. B.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <opener>
+               <dateline>Sea coast <date>June the 18th. 1685.</date>
+               </dateline>
+               <lb/>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>IMmediately after my last to you was dispatcht, I re<g ref="char:EOLhyphen"/>ceived this following Account, that yesterday morning, Capt. <hi>Tho: Hamilton</hi> that Commanded the Kings <hi>Fish<g ref="char:EOLhyphen"/>er,</hi> Attacqued <hi>Argiles</hi> Fortification, and that the Can<g ref="char:EOLhyphen"/>non plaid so strongly that his men were force to quit it after having left matches and traines of powder to blow up the Castle, which Capt. <hi>Hamilton</hi> prevented by send<g ref="char:EOLhyphen"/>ing men on shore in the very nick of time, he has taken in the Castle Four hundred Barrells of Powder, and seve<g ref="char:EOLhyphen"/>ral Peices of Cannon he has besides taken all his Ships, and Capt, <hi>Hamilton</hi> is actually in possession of the Ca<g ref="char:EOLhyphen"/>stle, the Marquiss of <hi>Atholl</hi> is now in pursuit of <hi>Argile,</hi> and Capt. <hi>Hamiltons</hi> Letter sayes that he Questions not but his next news wil be of <hi>Argiles</hi> utter destruction.</p>
+            <closer>
+               <signed>Your Lordships Faithfull, <hi>J. B.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
